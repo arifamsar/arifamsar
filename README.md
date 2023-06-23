@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, VueJS, ReactJS**
 
-- 👨‍💻 All of my projects are available at [arifamsar.github.io](arifamsar.github.io)
+- 👨‍💻 All of my projects are available at [arifamsar.github.io](https://arifamsar.github.io)
 
 - 💬 Ask me about **react, vue**
 
