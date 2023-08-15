@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, VueJS, ReactJS**
+- But now, im currently learning Android on Bangkit Academy
 
 - 👨‍💻 All of my projects are available at [arifamsar.github.io](https://arifamsar.github.io)
 
