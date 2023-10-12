@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arif Amsar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, Welcome to My Profile</h1>
+<h3 align="center">Frontend developer & Android Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, VueJS, ReactJS**
+- 🌱 I’m currently learning **JavaScript, VueJS, ReactJS, Kotlin**
 - But now, im currently learning Android on Bangkit Academy
 
 - 👨‍💻 All of my projects are available at [arifamsar.github.io](https://arifamsar.github.io)
