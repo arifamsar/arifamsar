@@ -3,8 +3,10 @@
 
 - 🌱 I’m currently learning **JavaScript, Kotlin**
 
-- 👨‍💻 All of my projects are available at [arifamsar.github.io](https://arifamsar.github.io) or you can check in my repository list
+- 👨‍💻 All of my projects are available at [arifamsar.web.id](https://arifamsar.web.id) or you can check in my repository list
 
-- 💬 Ask me about **react, vue, kotlin, android**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifamsar&show_icons=true&theme=dark&locale=en&layout=compact" alt="arifamsar" /></p>
+<p align="center">
+<a href="https://github.com/arifamsar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifamsar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arifamsar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
